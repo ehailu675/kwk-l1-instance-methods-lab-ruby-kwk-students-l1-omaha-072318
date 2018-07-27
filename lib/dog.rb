@@ -5,4 +5,4 @@ class Dog
   puts "#{@speak}"
 end
 end
-Dog.speak=("Woof!")
+Dog.speak = ("Woof!")
