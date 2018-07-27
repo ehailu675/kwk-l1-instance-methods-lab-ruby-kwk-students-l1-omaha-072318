@@ -4,4 +4,4 @@ class Dog
   sound = @speak
   puts "#{@speak}"
 end
-Dog.speak("Woof!")
+Dog.speak=("Woof!")
