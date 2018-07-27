@@ -2,6 +2,6 @@
 class Dog
   def speak
   sound = @speak
-  puts "#{sound}"
+  puts "#{@speak}"
 end
 Dog.speak("Woof!")
