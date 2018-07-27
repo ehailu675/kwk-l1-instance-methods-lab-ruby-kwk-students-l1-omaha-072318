@@ -1,4 +1,7 @@
 # dog.rb
 class Dog
-  def sound
+  def speak(sound)
   sound = @speak
+  puts "#{sound}"
+end
+Dog.speak("Woof!")
