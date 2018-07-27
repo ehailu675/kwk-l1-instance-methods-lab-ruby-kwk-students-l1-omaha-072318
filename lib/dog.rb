@@ -7,4 +7,3 @@ class Dog
   "The dog is #{@action}ing"
 end
 end
-Dog("fido","Woof!","sit")
