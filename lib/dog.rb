@@ -3,6 +3,8 @@ class Dog
   def intialize(name, bark, action)
   bark = @speak
   name = @name
+  action = @action
+  "The dog is #{@action}ing"
 end
 end
-Dog("fido","Woof!",)
+Dog("fido","Woof!","sit")
