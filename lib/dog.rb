@@ -1,3 +1,4 @@
 # dog.rb
-class Dog(sound)
+class Dog
+  def sound
   sound = @speak
